@@ -1,4 +1,4 @@
-# Fine-Tuning LLama 3 LLM (8B) on Google Colab with Tesla T4 GPU
+# Fine-Tuning LLama 3 (Meta LLM) on Google Colab with Tesla T4 GPU
 
 This repository contains the necessary resources and instructions to fine-tune the **LLama 3 (8B) LLM** model, developed by Meta, using a Tesla T4 GPU on a Google Colab remote machine.
 
