@@ -6,7 +6,7 @@ This repository contains the necessary resources and instructions to fine-tune t
 This project showcases the process of fine-tuning the [**LLama 3 (8B) LLM**](https://ai.meta.com/blog/meta-llama-3/) model on Google Colab, leveraging the computational power of the Tesla T4 GPU. The notebook included in this repository walks through the steps needed to set up, configure, and fine-tune the model for customized language tasks.
 
 ## Dataset Information
-The dataset used for fine-tuning this model is the **Alpaca Cleaned dataset** which is a cleaned version of the original [Alpaca Dataset released by Stanford](https://crfm.stanford.edu/2023/03/13/alpaca.html). This dataset consists of cleaned and structured data designed to improve instruction-following tasks. The dataset is hosted on [Hugging Face](https://huggingface.co/datasets/yahma/alpaca-cleaned).
+The dataset used for fine-tuning this model is the **Alpaca Cleaned dataset** which is a cleaned version of the original [Alpaca Dataset released by Stanford](https://crfm.stanford.edu/2023/03/13/alpaca.html). This dataset consists of cleaned and structured data designed to improve instruction-following tasks. The dataset is hosted on [Hugging Face](https://huggingface.co/datasets/yahma/alpaca-cleaned). 
 
 ### Key Features of the Dataset:
 - **Source**: Derived from the original Alpaca dataset and cleaned for better accuracy and performance.
