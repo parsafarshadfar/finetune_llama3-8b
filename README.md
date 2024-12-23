@@ -1,7 +1,7 @@
 # Fine-Tuning LLama 3 (Meta LLM) on Google Colab with Tesla T4 GPU
 
 This repository contains the necessary resources and instructions to fine-tune the **LLama 3 (8B) LLM** model, developed by Meta, using a Tesla T4 GPU on a Google Colab remote machine.
-
+ 
 ## Project Overview
 This project showcases the process of fine-tuning the [**LLama 3 (8B) LLM**](https://ai.meta.com/blog/meta-llama-3/) model on Google Colab, leveraging the computational power of the Tesla T4 GPU. The notebook included in this repository walks through the steps needed to set up, configure, and fine-tune the model for customized language tasks.
 
@@ -41,4 +41,3 @@ The cleaned Alpaca dataset allows the model to be fine-tuned on high-quality ins
 ## Acknowledgments
 - The **LLama 3 LLM** model was developed by **Meta**.
 - The dataset used for fine-tuning is the **Alpaca Cleaned dataset** available on [Hugging Face](https://huggingface.co/datasets/yahma/alpaca-cleaned).
-
