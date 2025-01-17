@@ -40,4 +40,4 @@ The cleaned Alpaca dataset allows the model to be fine-tuned on high-quality ins
 
 ## Acknowledgments
 - The **LLama 3 LLM** model was developed by **Meta**.
-- The dataset used for fine-tuning is the **Alpaca Cleaned dataset** available on [Hugging Face](https://huggingface.co/datasets/yahma/alpaca-cleaned).
+- The dataset used for fine-tuning is the **Alpaca Cleaned dataset** available on [Hugging Face](https://huggingface.co/datasets/yahma/alpaca-cleaned). 
