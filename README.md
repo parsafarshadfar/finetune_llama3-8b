@@ -12,7 +12,7 @@ The dataset used for fine-tuning this model is the **Alpaca Cleaned dataset** wh
 - **Source**: Derived from the original Alpaca dataset and cleaned for better accuracy and performance.
 - **Size**: Contains around 52,000 samples of instructions and responses.
 - **Domain**: Focused on general language tasks, making it versatile for various NLP applications.
-- **Data Preprocessing**: The data has undergone cleaning to remove errors, inconsistencies, and any irrelevant information.
+- **Data Preprocessing**: The data has undergone cleaning to remove errors, inconsistencies, and any irrelevant information. 
 
 The cleaned Alpaca dataset allows the model to be fine-tuned on high-quality instruction-following tasks, improving its performance on real-world applications such as dialogue systems and content generation. 
 
