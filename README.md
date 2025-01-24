@@ -28,7 +28,7 @@ The cleaned Alpaca dataset allows the model to be fine-tuned on high-quality ins
 ## Prerequisites
 - A Google account to access **Google Colab**.
 - Familiarity with Python and machine learning concepts.
-- Basic understanding of working with language models.
+- Basic understanding of working with language models. 
 
 ## Setup and Usage
 1. Clone the repository:
