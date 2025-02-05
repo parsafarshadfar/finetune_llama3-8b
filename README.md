@@ -38,6 +38,6 @@ The cleaned Alpaca dataset allows the model to be fine-tuned on high-quality ins
 2. Open **Google Colab** and upload the **Fine-Tuning_LLama3_8B.ipynb** notebook.
 3. Follow the instructions in the notebook to set up the environment and start the fine-tuning process.
 
-## Acknowledgments
+## Acknowledgments 
 - The **LLama 3 LLM** model was developed by **Meta**.
 - The dataset used for fine-tuning is the **Alpaca Cleaned dataset** available on [Hugging Face](https://huggingface.co/datasets/yahma/alpaca-cleaned). 
