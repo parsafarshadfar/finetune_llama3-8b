@@ -16,7 +16,7 @@ The dataset used for fine-tuning this model is the **Alpaca Cleaned dataset** wh
 
 The cleaned Alpaca dataset allows the model to be fine-tuned on high-quality instruction-following tasks, improving its performance on real-world applications such as dialogue systems and content generation. 
 
-## Key Features
+## Key Features 
 - Utilizes **Google Colab** as a remote machine to handle large model training without the need for local resources.
 - **Tesla T4 GPU** is used to accelerate the fine-tuning process, ensuring efficient execution.
 - Comprehensive setup instructions included in the Jupyter notebook, making the process easy to follow.
