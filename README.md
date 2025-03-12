@@ -21,7 +21,7 @@ The cleaned Alpaca dataset allows the model to be fine-tuned on high-quality ins
 - **Tesla T4 GPU** is used to accelerate the fine-tuning process, ensuring efficient execution.
 - Comprehensive setup instructions included in the Jupyter notebook, making the process easy to follow.
 
-## Contents
+## Contents 
 - **Fine-Tuning_LLama3_8B.ipynb**: The primary Jupyter notebook that guides the user through setting up the Colab environment and fine-tuning the LLama 3 model. 
 - **Dataset**: [Alpaca Cleaned dataset](https://huggingface.co/datasets/yahma/alpaca-cleaned) used for fine-tuning the model.
 
